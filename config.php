@@ -45,9 +45,20 @@ return [
             'proxy' => env('TELEGRAM_PROXY') ?: null,
             'host' => env('CUSTOM_TELEGRAM_HOST') ?: 'api.telegram.org',
         ],
+        
+        /**
+         * 企业微信机器人
+         */
+        'wechatbot' => [
+            'token' => env('WECHAT_BOT_TOKEN'), // WECHAT BOT 的 token
+            'enable' => (int)env('WECHAT_BOT_ENABLE'), // 是否启用，默认不启用
+            'not_enabled_tips' => env('WECHAT_BOT_TOKEN'), // 提醒未启用
+            'class' => \Luolongfei\Libs\MessageServices\WeChatBot::class,
+            'name' => lang('1000138'),
+        ],
 
         /**
-         * 企业微信
+         * 企业微信应用
          */
         'wechat' => [
             'corp_id' => env('WECHAT_CORP_ID'), // 企业 ID
