@@ -542,7 +542,7 @@ PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
 
 - 解决 企业微信 因送信内容过长被截断问题
 
-#### [v0.5.1](https://github.com/luolongfei/freenom/releases/tag/v0.5.1) - 2022-08-29
+#### [v0.5.2](https://github.com/mutouloves/freenom/releases/tag/v0.5.2) - 2022-08-29
 
 - 支持一键部署至 Koyeb、Heroku 等平台，虽然 Heroku 马上要收费了，但 Koyeb 依然免费
 - 优化在各种环境下的目录读写权限判断
