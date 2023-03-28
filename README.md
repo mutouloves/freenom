@@ -10,7 +10,6 @@ Freenom 域名自动续期
 [![Docker 拉取地址](https://img.shields.io/docker/pulls/mutouloves/freenom.svg)](https://hub.docker.com/r/mutouloves/freenom)
 [![Docker 镜像大小](https://img.shields.io/docker/image-size/mutouloves/freenom.svg)](https://hub.docker.com/r/mutouloves/freenom)
 [![Docker 镜像版本](https://img.shields.io/docker/v/mutouloves/freenom.svg)](https://hub.docker.com/r/mutouloves/freenom)
-[![AGPL-3.0  许可](https://img.shields.io/github/license/mutouloves/freenom.svg)](https://github.com/mutouloves/freenom/blob/main/LICENSE.txt)
 [![Sponsors  资助](https://img.shields.io/github/sponsors/mutouloves.svg)](https://raw.githubusercontent.com/mutouloves/i/f/f.svg)
 
 ---
