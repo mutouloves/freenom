@@ -1,4 +1,4 @@
-name: 手动 # 手动触发
+name: Manual # 手动触发
 
 on:
   workflow_dispatch:  # 手动触发
